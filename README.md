@@ -10,6 +10,7 @@ My Goals are initially
    2. Resistors in Parallel and Series
    3. Resistor Colour Code Calculator
    4. LED protective resistor
+   5. Potential Divider Calculator
 
 Expansion Ideas to include
 
